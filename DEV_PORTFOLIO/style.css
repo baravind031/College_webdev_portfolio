@@ -1,0 +1,66 @@
+*{
+    background-color: black;
+    margin: 2rem;
+}
+header{
+    background-image: url(./assets/portfolio_img.png);
+    /* margin: 2rem;
+    padding: 1rem 1.5rem; */
+    padding-top: 2rem;
+    /* width: 100%; */
+    height: 100%;
+
+
+}
+.d-flex{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1.75rem;
+     
+    
+}
+.navbars{
+     /* padding-right: 2rem; */
+     background-color: cyan;
+}
+ 
+#about p{
+    background-color: chocolate;
+    border-radius: 5px;
+    padding: 5px 5px;
+    color: white;
+    
+
+}
+ 
+#Edu{
+    
+    background-color: black;
+}
+#cerifi{
+     
+    padding-bottom: 2rem;
+
+}
+#project{
+    color: white;
+    padding-bottom: 1rem;
+     
+}
+#contact{
+    color: whitesmoke;
+    
+}
+.footer{
+    border-bottom: 2rem;
+ padding-bottom: 5px; 
+ 
+}
+#thankyou{
+     /* padding-left: 10rem; */
+     color:rgb(85, 212, 216); 
+     text-align: center;
+     font-size: larger;
+    
+}
+ 
